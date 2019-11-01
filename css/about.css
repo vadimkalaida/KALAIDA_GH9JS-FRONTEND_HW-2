@@ -1,0 +1,31 @@
+.about {
+  width: 100%;
+  min-height: 100px;
+  background: #fff;
+}
+
+.about_container {
+  width: 80%;
+  min-height: 100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.about-title {
+  color: #3677fd;
+  font-weight: 300;
+  font-size: 50px;
+  margin-top: 55px;
+  margin-bottom: 40px;
+}
+
+.about-text {
+  max-width: 1020px;
+  color: #5a5a5a;
+  line-height: 35px;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
