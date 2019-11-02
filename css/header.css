@@ -1,7 +1,7 @@
 .header {
   width: 100%;
   min-height: 100px;
-  background: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+  background: linear-gradient(45deg, #3695ff 20%, #469dff 20% 40%, #4098ff 40% 60%, #3c89fe 60% 80%, #357afd 80%);;
 }
 
 .header_container {
